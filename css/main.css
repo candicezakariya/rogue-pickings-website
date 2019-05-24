@@ -1,0 +1,118 @@
+/***** BASE STYLES *****/
+body  {
+      font-family: 'Montserrat', sans-serif;
+      background-color:#ffffff;
+}
+
+h1  {
+    text-transform: uppercase;
+    float: left;
+    margin: 35px 0px 0px 40px;
+}
+
+h2, span  {
+      color:#77a466;
+}
+
+
+#nav  {
+      text-transform: uppercase;
+      list-style-type:none;
+      font-size: 16px;
+      margin: 0;
+      padding:45px 5px 0px 0px;
+      display: inline;
+      float: right;
+}
+
+#nav li {
+        display: inline;
+        padding: 15px;
+}
+
+#nav a  {
+        text-decoration: none;
+        color:#77a466;
+}
+
+img {
+    margin: 40px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-width: 3px;
+    border-color: #77a466;
+}
+
+main  {
+      margin: 20px 0px 20px 40px;
+      line-height: 150%;
+}
+
+h2, h4 {
+        font-size: 18px;
+        text-transform: uppercase;
+}
+
+h3  {
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.third-width  {
+              height: 200px;
+              float: left;
+              padding:25px 0px;
+              margin: auto;
+              border-top-style: solid;
+              border-bottom-style: solid;
+              border-width: 1px;
+              border-color: #eee;
+}
+
+#first-box  {
+            width:340px;
+            padding-right: 45px;
+
+}
+
+
+
+#first-box p {
+            text-decoration: none;
+            margin-right: 0px;
+            color:#77a466;
+            line-height: 200%;
+}
+
+#second-box {
+            border-left-style: solid;
+            border-right-style: solid;
+            border-width: 1px;
+            border-color: #eee;
+            width:345px;
+}
+
+#third-box  {
+            width:340px;
+}
+
+#second-box, #third-box  {
+            padding-left: 35px;
+            padding-right: 35px;
+}
+
+main, footer{
+      clear: both;
+}
+
+footer  {
+        text-align: center;
+        padding-top: 10px;
+}
+
+#footer-color {
+              font-family: 'Dancing Script', cursive;
+              font-size: 24px;
+              text-transform: lowercase;
+
+}
